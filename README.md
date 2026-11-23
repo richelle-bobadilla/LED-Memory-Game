@@ -6,4 +6,6 @@ Participants created an LED memory game! Once players start playing the project,
 
 This was a super fun project to make, my partner had tons of fun doing the hardware wiring!
 
+tinkercad link: https://www.tinkercad.com/things/lpwlNJHWTqg-utm-led-memory-game-workshop/editel
+
 <img width="274" height="319" alt="image" src="https://github.com/user-attachments/assets/d96d4b93-ee24-499d-bba6-efb64378a1a4" />
